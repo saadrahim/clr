@@ -1,3 +1,4 @@
+```
 apt install git-filter-repo
 
 mkdir combine
@@ -36,3 +37,4 @@ git remote add ROCm-OpenCL-Runtime ../ROCm-OpenCL-Runtime/
 git fetch ROCm-OpenCL-Runtime --tags
 git merge --allow-unrelated-histories ROCm-OpenCL-Runtime/develop
 
+```
